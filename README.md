@@ -47,45 +47,16 @@ A comprehensive employee management application with real-time geofencing capabi
 
 ## 📱 Demo Screenshots
 
-### 🏠 **Main Dashboard**
-
-![Main Dashboard](screenshots/home_page.png)
-*Clean, modern interface with real-time location tracking and status indicators*
-
-### 📍 **Live Location Tracking**
-
-![Live Location](screenshots/home_live_location.png)
-*Real-time coordinates display with live tracking status and geofence monitoring*
-
-### 🔔 **Geofence Notification**
-
-![Geofence Notification](screenshots/notification_geofence_entered.png)
-*Instant notification when entering a geofenced work area*
-
-### 📋 **Event History**
-
-![Event History](screenshots/geofence_history.png)
-*Comprehensive geofence event logging with timestamps and location details*
-
-### ➕ **Add Custom Location**
-
-![Add Location](screenshots/location_create.png)
-*Manual location creation with coordinate input and current location detection*
-
-### ⚠️ **Permission Management**
-
-![Location Permission](screenshots/location_permission.png)
-*User-friendly permission request with clear feature explanations*
-
-### 🔒 **Permission Denied Flow**
-
-![Permission Denied](screenshots/location_permission_denied.png)
-*Graceful handling of permission denial with helpful guidance*
-
-### 🔔 **Notification Permission**
-
-![Notification Permission](screenshots/notification_permission_required.png)
-*Notification permission setup for geofence alerts*
+| Feature | Screenshot | Description |
+|---------|------------|-------------|
+| **🏠 Main Dashboard** | <img src="screenshots/home_page.png" width="200" alt="Main Dashboard"> | Clean, modern interface with real-time location tracking and status indicators |
+| **📍 Live Location** | <img src="screenshots/home_live_location.png" width="200" alt="Live Location"> | Real-time coordinates display with live tracking status and geofence monitoring |
+| **🔔 Geofence Notification** | <img src="screenshots/notification_geofence_entered.png" width="200" alt="Geofence Notification"> | Instant notification when entering a geofenced work area |
+| **📋 Event History** | <img src="screenshots/geofence_history.png" width="200" alt="Event History"> | Comprehensive geofence event logging with timestamps and location details |
+| **➕ Add Location** | <img src="screenshots/location_create.png" width="200" alt="Add Location"> | Manual location creation with coordinate input and current location detection |
+| **⚠️ Permission Management** | <img src="screenshots/location_permission.png" width="200" alt="Permission Management"> | User-friendly permission request with clear feature explanations |
+| **🔒 Permission Denied** | <img src="screenshots/location_permission_denied.png" width="200" alt="Permission Denied"> | Graceful handling of permission denial with helpful guidance |
+| **🔔 Notification Permission** | <img src="screenshots/notification_permission_required.png" width="200" alt="Notification Permission"> | Notification permission setup for geofence alerts |
 
 ## 📱 Download APK
 
