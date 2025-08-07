@@ -87,6 +87,30 @@ A comprehensive employee management application with real-time geofencing capabi
 ![Notification Permission](screenshots/notification_permission_required.png)
 *Notification permission setup for geofence alerts*
 
+## 📱 Download APK
+
+### 🎯 **Ready to Install**
+
+Download the latest APK and install directly on your Android device:
+
+**[📥 Download geofence_locator.apk](geofence_locator.apk)** *(23.2 MB)*
+
+### 📋 **Installation Steps**
+
+1. Download the APK file above
+2. Enable "Install from Unknown Sources" in Android settings
+3. Open the downloaded APK file
+4. Follow the installation prompts
+5. Grant necessary permissions when prompted
+
+### 🔒 **Security Note**
+
+This APK is built from the source code in this repository. You can verify the build by running:
+
+```bash
+flutter build apk --release
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
